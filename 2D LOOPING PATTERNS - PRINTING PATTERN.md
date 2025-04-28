@@ -24,6 +24,7 @@ To write a Python program to print a triangular star pattern using loops.
 ---
 
 ### PROGRAM
+---
 
 a=int(input())
 m=(2*a)-2
@@ -34,6 +35,7 @@ for i in range(0,a):
     for j in range(0,i+1):
         print("* ",end=" ")
     print()
+---
 
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/2d935b35-1d87-45e9-a9db-b4cb4d5917b7)

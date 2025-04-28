@@ -22,11 +22,15 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add your Code Here
+n=int(input())
+print("Natural Numbers are :")
+for i in range(1,n+1):
+   
+    print(i)
 
 ```
 ### OUTPUT
+![2](https://github.com/user-attachments/assets/fcfd0099-f33e-4fa7-b7b8-919ee82a990d)
 
 ### RESULT
+Thus a Python program to check if a number is a Perfect number using the concept of functions has been executed and implemented successfully.

@@ -34,10 +34,10 @@ else:
 
 ### OUTPUT
 
-```
+
 ![3](https://github.com/user-attachments/assets/60426858-7439-410f-af1d-7bbd8c2859f8)
 
-```
+
 
 ### RESULT
 
